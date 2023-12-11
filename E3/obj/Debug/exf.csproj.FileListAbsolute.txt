@@ -1,0 +1,8 @@
+C:\Users\HP RYZEN-5\Documents\SharpDevelop Projects\inf324\exf\bin\Debug\exf.exe.config
+C:\Users\HP RYZEN-5\Documents\SharpDevelop Projects\inf324\exf\bin\Debug\exf.exe
+C:\Users\HP RYZEN-5\Documents\SharpDevelop Projects\inf324\exf\bin\Debug\exf.pdb
+C:\Users\HP RYZEN-5\Documents\SharpDevelop Projects\inf324\exf\obj\Debug\exf.csprojResolveAssemblyReference.cache
+C:\Users\HP RYZEN-5\Documents\SharpDevelop Projects\inf324\exf\obj\Debug\xd.MainForm.resources
+C:\Users\HP RYZEN-5\Documents\SharpDevelop Projects\inf324\exf\obj\Debug\exf.csproj.GenerateResource.Cache
+C:\Users\HP RYZEN-5\Documents\SharpDevelop Projects\inf324\exf\obj\Debug\exf.exe
+C:\Users\HP RYZEN-5\Documents\SharpDevelop Projects\inf324\exf\obj\Debug\exf.pdb
